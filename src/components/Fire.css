@@ -1,0 +1,22 @@
+.fire {
+    text-align: center;
+    margin-top: 100px;
+}
+
+Input::-webkit-outer-spin-button,
+Input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+Input {
+    -moz-appearance: textfield;
+}
+
+.report {
+    min-width: 100px !important;
+    min-height: 30px !important;
+    background-color: #fff !important;
+    color: #000 !important;
+    font-size: 20px !important;
+    margin-top: 30px !important;
+}
